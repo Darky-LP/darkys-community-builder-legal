@@ -7,6 +7,7 @@ title: "Darkys Community Builder | Rechtliche Informationen"
 
 **Privater Discord-Bot für DarkyLP & Joto Community 2.0**
 
-Die rechtlichen Informationen für dieses Projekt werden derzeit vorbereitet.
+- 🔐 [Datenschutzhinweise](datenschutz.html)
+- 📜 [Nutzungsbedingungen](nutzungsbedingungen.html)
 
-Diese Seite enthält noch keine abschließende Datenschutzerklärung oder Nutzungsbedingungen.
+**Hinweis:** Die folgenden Texte sind vorläufige Informationsfassungen. Die rechtliche Prüfung und die Pflichtangaben zum datenschutzrechtlich Verantwortlichen sind noch offen. Sie sind keine abschließend geprüfte Datenschutzerklärung.
